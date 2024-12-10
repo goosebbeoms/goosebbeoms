@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi,%20I'm%20goosebbeoms&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20goosebbeoms&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=51&descAlign=62" />
 </div>
 
 <!--내용 부분-->
